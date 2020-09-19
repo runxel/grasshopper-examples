@@ -1,0 +1,5 @@
+# .gitattributes
+
+*	    text=auto
+*.gh    binary
+*.ghx   diff=xml
