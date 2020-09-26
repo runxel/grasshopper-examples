@@ -1,6 +1,6 @@
 # Grasshopper examples 🦗
 
-![Rhino Version](https://img.shields.io/badge/Rhino-6-801010?logo=Rhinoceros) ![Grasshopper Version](https://img.shields.io/badge/Grasshopper-1.0-71C53D?logo=Rhinoceros)  
+![Rhino Version](https://img.shields.io/badge/Rhino-6-801010?logo=Rhinoceros) &nbsp;&nbsp; ![Grasshopper Version](https://img.shields.io/badge/Grasshopper-1.0-71C53D?logo=Rhinoceros)  
 
 > Some Grasshopper example files to show neat ways of working, tips & tricks.
 
