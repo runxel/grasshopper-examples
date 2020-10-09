@@ -11,8 +11,9 @@ A big feature of Grasshopper is the ability to actually _script_ inside a script
 
 ## Other stuff
 
-Check out the [secrets of Rhino + Grasshopper](https://runxel.xyz/rhino-secrets/).  
-Have a look at my [Rhino scripts](https://github.com/runxel/rhino-scripts)!
+- Check out the [secrets of Rhino + Grasshopper](https://runxel.xyz/rhino-secrets/).  
+- Have a look at my [Rhino scripts](https://github.com/runxel/rhino-scripts)!
+- Read the [Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
 
 ## License
 [Blue Oak Model License (BOML)](/LICENSE.md)
