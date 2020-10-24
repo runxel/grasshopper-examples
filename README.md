@@ -16,6 +16,7 @@ For more info on Python in Rhino/Grasshopper see [this](https://developer.rhino3
 - Have a look at my [Rhino scripts](https://github.com/runxel/rhino-scripts)!
 - Read the [Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
 - Learn how to create your [own components](https://developer.rhino3d.com/guides/grasshopper/)
+- [Grasshopper Arsenal](https://github.com/dantaeyoung/GrasshopperArsenal)
 
 ## License
 [Blue Oak Model License (BOML)](/LICENSE.md)
